@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My Life in colour
-datePublished: '2016-04-03T14:03:39.654Z'
-dateModified: '2016-04-03T14:02:52.132Z'
+datePublished: '2016-04-03T14:09:24.042Z'
+dateModified: '2016-04-03T14:03:48.080Z'
 title: My life in colour
 author: []
 sourcePath: _posts/2016-04-03-my-life-in-colour.md
