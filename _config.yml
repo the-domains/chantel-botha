@@ -1,0 +1,28 @@
+name: Chantel Botha
+favicon: null
+layout_spectrum: 0.19231504085473716
+typography_spectrum: 0.5026225980836898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.09774718154221773
+  lightness: 0.25604963302612305
+  saturation: 0.47282043285667896
+  rhythmicContrast: 0.8137901707086712
+purpose: []
