@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Chantel Botha]]></title>
-        <description><![CDATA[Chantel Botha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My Personal Brand]]></title>
+        <description><![CDATA[My Personal Brand]]></description>
+        <link>http://www.chantelbotha.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Apr 2016 13:43:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 13:57:02 GMT</lastBuildDate>
+        <atom:link href="http://www.chantelbotha.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My life in colour]]></title>
+            <description><![CDATA[<article><h1>My life in colour</h1><p>My Life in colour</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55ce97e2ce260d673eebb52dfaff6946a7e02a8d.jpg"></article>]]></description>
+            <link>http://www.chantelbotha.com/my-life-in-colour/index.html</link>
+            <guid isPermaLink="false">8c5fd444-47af-4e40-a56f-18ac18cfe527</guid>
+            <pubDate>Sun, 03 Apr 2016 13:57:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0129a0a7-8c9a-4e18-914c-55d4260f7e49.jpg">]]></description>
-            <link>undefinedthings-i-want-to-do-before-i-die/index.html</link>
+            <link>http://www.chantelbotha.com/things-i-want-to-do-before-i-die/index.html</link>
             <guid isPermaLink="false">2a65aea8-2b75-4d00-8589-50d5232e27d1</guid>
             <pubDate>Sun, 03 Apr 2016 13:42:58 GMT</pubDate>
         </item>
